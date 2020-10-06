@@ -15,19 +15,20 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 To develop Aoomle software in this repository, ensure that you have at least the following software:
 
-Xcode 12 (or later)
+Xcode 12 (or later) </br>
 iOS 13.0 or later
 CocoaPods 1.7.2 (or later)
 
 
 ## Usage
 
-```
-swift
+```ruby
+
 let alertView = AMAlertViewController(title: "Internet Connection", message: "There is a problem with your internet connection, please try again later. If the problem persist, contact us +2348146191761", buttonTitle: "OK")
 alertView.modalTransitionStyle = .crossDissolve
 alertView.modalPresentationStyle = .fullScreen
 present(alertView, animated: true, completion: nil)
+
 ```
 
 
