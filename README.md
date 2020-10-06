@@ -23,6 +23,7 @@ CocoaPods 1.7.2 (or later)
 ## Usage
 
 ```
+swift
 let alertView = AMAlertViewController(title: "Internet Connection", message: "There is a problem with your internet connection, please try again later. If the problem persist, contact us +2348146191761", buttonTitle: "OK")
 alertView.modalTransitionStyle = .crossDissolve
 alertView.modalPresentationStyle = .fullScreen
