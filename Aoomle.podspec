@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Aoomle'
   s.version          = '0.1.0'
-  s.summary          = 'Aoomle is a large libary which contain, alert view controller that support dark mode, and it is still in beta many features are coming to it.'
+  s.summary          = 'Aoomle is a large libary which contain, alert view controller that support dark mode.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
