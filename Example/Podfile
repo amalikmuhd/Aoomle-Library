@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Aoomle_Example' do
+  pod 'Aoomle', :path => '../'
+
+  target 'Aoomle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
