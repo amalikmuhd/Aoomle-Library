@@ -1,6 +1,6 @@
 # Aoomle
 
-[![CI Status](https://img.shields.io/travis/Abdulmalik Muhammad/Aoomle.svg?style=flat)](https://travis-ci.org/Abdulmalik Muhammad/Aoomle)
+[![CI Status](https://img.shields.io/travis/AbdulmalikMuhammad/Aoomle.svg?style=flat)](https://travis-ci.org/AbdulmalikMuhammad/Aoomle)
 [![Version](https://img.shields.io/cocoapods/v/Aoomle.svg?style=flat)](https://cocoapods.org/pods/Aoomle)
 [![License](https://img.shields.io/cocoapods/l/Aoomle.svg?style=flat)](https://cocoapods.org/pods/Aoomle)
 [![Platform](https://img.shields.io/cocoapods/p/Aoomle.svg?style=flat)](https://cocoapods.org/pods/Aoomle)
