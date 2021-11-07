@@ -1,4 +1,4 @@
-# Aoomle
+# Aoomle-Library 
 
 [![CI Status](https://img.shields.io/travis/AbdulmalikMuhammad/Aoomle.svg?style=flat)](https://travis-ci.org/AbdulmalikMuhammad/Aoomle)
 [![Version](https://img.shields.io/cocoapods/v/Aoomle.svg?style=flat)](https://cocoapods.org/pods/Aoomle)
@@ -51,16 +51,16 @@ pod 'Aoomle'
 ```
 
 ## Installation with Swift Package Manager
-See the docs [CocoaPods](https://aoome.app)
+See the docs [CocoaPods](https://codewithmalik.com)
 
 
 ## Author
 
-Abdulmalik Muhammad, bawasuru@gmail.com
+Abdulmalik Muhammad, abdulmmbs@gmail.com
 
-[Twitter](https://twitter.com/aoomle_)
+[Twitter](https://twitter.com/codewithmalik)
 [YouTube](https://youtube.com/aoomle)
-[Website](https://aoomle.app)
+[Website](https://codewithmalik.com)
 
 ## License
 
